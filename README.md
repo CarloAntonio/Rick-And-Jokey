@@ -10,8 +10,6 @@ This app can:
 * Display an interstitial and banner ad for the free flavor.
 
 ### User Facing Screens
-
-### User Facing Screens
 Free Version </br>
 <img src="https://user-images.githubusercontent.com/25759516/31742718-5888e228-b40d-11e7-966f-9eef01153d88.png" width="400">
 
