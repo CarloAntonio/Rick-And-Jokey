@@ -12,13 +12,13 @@ This app can:
 ### User Facing Screens
 
 ### User Facing Screens
-Free Version
+Free Version </br>
 <img src="https://user-images.githubusercontent.com/25759516/31742718-5888e228-b40d-11e7-966f-9eef01153d88.png" width="400">
 
-Free Version Interstitial Ad
+Free Version Interstitial Ad </br>
 <img src="https://user-images.githubusercontent.com/25759516/31742723-5a408f80-b40d-11e7-8686-f54158809f2d.png" width="400">
 
-Paid Version
+Paid Version </br>
 <img src="https://user-images.githubusercontent.com/25759516/31742725-5c957b4c-b40d-11e7-9987-29e4e6903ad9.png" width="400">
 
 ### Libraries Used
